@@ -17,6 +17,6 @@
 
 - [x] GitHub repository, files, description and topics configured.
 - [x] Release `v1.0.0` created with a downloadable ZIP.
-- [ ] Final MIT copyright holder confirmed by the owner.
-- [ ] Final public-file and illustration safety review approved by the owner.
-- [ ] Repository switched from Private to Public (only after the two items above).
+- [x] Final MIT copyright holder confirmed by the owner: **leeliofree**.
+- [x] Final public-file and illustration safety review approved by the owner.
+- [x] Repository switched from Private to Public (after the two items above).
