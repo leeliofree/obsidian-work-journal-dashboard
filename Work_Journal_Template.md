@@ -18,6 +18,14 @@
 > short mode
 > ```
 
+> [!success] ✅ DONE · LAST 7 DAYS
+> ```tasks
+> done
+> path includes {{query.file.path}}
+> done after 7 days ago
+> sort by done reverse
+> ```
+
 ---
 
 ## 📒 RAW RECORDING
